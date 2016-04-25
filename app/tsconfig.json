@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "sourceMap": true,
+    "removeComments": false,
+    "outDir": "./build"
+  },
+  "exclude": [
+    "typings",
+    "node_modules"
+  ],
+  "files": [
+    "typings/main.d.ts",
+    "main.tsx",
+    "main2.tsx"
+  ]
+}

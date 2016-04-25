@@ -1,0 +1,19 @@
+{
+  "display_name" : "Willy Blandin",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/12131331278"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 7
+  },
+  "href" : "https://api.spotify.com/v1/users/12131331278",
+  "id" : "12131331278",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/p200x200/10603651_823181907726042_449981911042932305_n.jpg?oh=f6ab3ce74e4ba00d266853550c3e1ff5&oe=574B6E95",
+    "width" : null
+  } ],
+  "type" : "user",
+  "uri" : "spotify:user:12131331278"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 168165
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/5ivCbtrcD5N4rD337xIb2z",
+  "id" : "5ivCbtrcD5N4rD337xIb2z",
+  "images" : [ {
+    "height" : 563,
+    "url" : "https://i.scdn.co/image/5ff916bf0ef383c0122a292b1a121a05df286fbb",
+    "width" : 1000
+  }, {
+    "height" : 360,
+    "url" : "https://i.scdn.co/image/7dbe6db86a20756d89f612ae9ee28d2a4ec429e7",
+    "width" : 640
+  }, {
+    "height" : 113,
+    "url" : "https://i.scdn.co/image/efc9d8f386fb46ea248cf3e763008cd525f8963c",
+    "width" : 200
+  }, {
+    "height" : 36,
+    "url" : "https://i.scdn.co/image/99d36177a159218010729ab8ba4c329c231ce9d5",
+    "width" : 64
+  } ],
+  "name" : "MisterWives",
+  "popularity" : 70,
+  "type" : "artist",
+  "uri" : "spotify:artist:5ivCbtrcD5N4rD337xIb2z"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 759284
+  },
+  "genres" : [ "shimmer pop" ],
+  "href" : "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+  "id" : "77SW9BnxLY8rJ0RciFqkHh",
+  "images" : [ {
+    "height" : 1000,
+    "url" : "https://i.scdn.co/image/b89a03080133cc03cbb4e6e783f01804c1f3f6bd",
+    "width" : 1000
+  }, {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/dc71e3b138c8cf49d63d0a39db4ff0d48640fe60",
+    "width" : 640
+  }, {
+    "height" : 200,
+    "url" : "https://i.scdn.co/image/298a65ebcaeaef2d83cc0c5519c881169ca55ddb",
+    "width" : 200
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/ee44cdddb1d0639561576cbb4b84daf4b7179622",
+    "width" : 64
+  } ],
+  "name" : "The Neighbourhood",
+  "popularity" : 78,
+  "type" : "artist",
+  "uri" : "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+}
